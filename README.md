@@ -1,4 +1,4 @@
-# ICS20-Unit-1-04-html
+# ICS20-Unit-1-04-html-CSS
 
 [![GitHub's Super Linter](https://github.com/AvaVenturino/ICS20-Unit-1-04-html/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/AvaVenturino/ICS20-Unit-1-04-html/actions)
 
