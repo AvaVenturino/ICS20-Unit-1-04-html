@@ -1,0 +1,45 @@
+/* Created by: Ava Venturino 
+ Created on: Feb. 25 
+* This CSS file defines the style for index.html ICS2O-Unit1-04-HTML
+*/
+
+body {
+  background-color:bisque;
+}
+
+h1 {
+   background-color: rgb(222 184 135);
+      color: hsl(333deg,37%,94%);
+      padding: 40px;
+      text-align: center;
+}
+
+p {
+  background-color: #E9967A;
+}
+
+ul {
+  color: beige;
+}
+
+ul li::before {
+  content: "✅";
+}
+
+table {
+  border: solid thin;   
+}
+
+th {
+  height: 2rem;
+  background: red;
+  border: 1px solid white;
+  text-align: left;
+}
+
+td {
+  height: 2rem;
+  background: lightblue;
+  border: 1px solid black;
+  text-align: center;
+}
