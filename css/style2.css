@@ -3,41 +3,41 @@
  * This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML
 */
 
- body {
+body {
   background-color: bisque;
 }
 
- h1 {
-  background-color: #E9967A;
+h1 {
+  background-color: #e9967a;
   color: hsl(333deg 37% 94%);
   padding: 40px;
   text-align: center;
 }
 
- p {
-  background-color: #E9967A;
+p {
+  background-color: #e9967a;
 }
 
- ul {
+ul {
   color: lightcoral;
 }
 
- ul li::before {
+ul li::before {
   content: "✅";
 }
 
- table {
+table {
   border: solid thin;
 }
 
- th {
+th {
   height: 2rem;
   background: salmon;
   border: 1px lightcoral;
   text-align: left;
 }
 
- td {
+td {
   height: 2rem;
   background: lightsalmon;
   border: 1px solid black;
